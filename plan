@@ -1,0 +1,38 @@
+Each group is required to submit a final report (maximum 10 pages in IEEE 2-column format) before 5 PM Friday Oct 21st (last day of session)- watch out for submission instructions on the class webpage. The report should contain the following:
+
+name and student ID of group members
+title and definition of project goals
+    - simple
+
+relevant literature survey, with references at the end (may be an extension of interim report)
+    - Describe the papers we looked at for the transformation
+    - And the paper for optical flow
+    - Discuss in general what people did in these other papers
+
+problem decomposition: the tasks or subgoals involved
+    - Matching
+    - Transformation
+
+Scope of project, including detailed specification
+    - Numbers like number of frames per second to match
+    - Must generate the forwards, sideways and theta of the robot
+    - Facts like we have to approach the same level of accuracy as the 
+    - This project must do this
+
+design, algorithms used and implementation issues
+    - Python -> C++
+    - DIscuss our matching algo
+    - Discuss out transformation algo
+
+justification for design decisions, testing and results
+    - Do we justify why we used our matching algo rather than SIFT/SURF here?
+    - The mean and standard deviation we found for standing still
+    - How fast it was?
+
+conclusions and suggestions for future extensions
+    - The points that we were looking at were too noisy
+    - And as a result we couldn't get the correct odometry
+    - We have plenty of stuff for future extensions
+
+contribution of individual group members and subdivison of tasks.
+    - Easy
